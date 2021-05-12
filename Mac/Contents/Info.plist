@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>MBExtender</string>
+	<key>CFBundleGetInfoString</key>
+	<string>©2016 The Platinum team</string>
+	<key>CFBundleIconFile</key>
+	<string>PQ_icon.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.garagegames.marbleblastgold</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>PlatinumQuest</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>©2016 The Platinum team</string>
+	<key>CFBundleDisplayName</key>
+	<string>PlatinumQuest</string>
+	<key>CFBundleSignature</key>
+	<string>GGMB</string>
+	<key>CFBundleVersion</key>
+	<string>1.00</string>
+</dict>
+</plist>
